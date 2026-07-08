@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kirk — Founder, Owlhoot AI
 
-<!--
-**kirk-nielson/kirk-nielson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building Owlhoot AI around a simple idea:
 
-Here are some ideas to get you started:
+> AI agents should prove completion, not just claim it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current focus:
+- AI Completion Assurance
+- false-completion failure modes
+- non-agent verification
+- durable evidence
+- public certificate verification
+
+Public work:
+- AuditGrade verifier: coming soon / preview
+
+Owlhoot AI:
+- AI Completion Assurance
+- Evidence is authoritative. Prose is not.
