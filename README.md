@@ -1,19 +1,21 @@
-# Kirk — Founder, Owlhoot AI
+# Kirk Nielson
 
-I’m building Owlhoot AI around a simple idea:
+Founder of [Owlhoot AI](https://github.com/owlhoot-ai), building AI Completion Assurance: tools and workflows that make agent-completed work verifiable against trusted evidence.
 
-> AI agents should prove completion, not just claim it.
+> Evidence is authoritative. Prose is not.
 
-Current focus:
-- AI Completion Assurance
-- false-completion failure modes
-- non-agent verification
-- durable evidence
-- public certificate verification
+## Start here
 
-Public work:
-- AuditGrade verifier: coming soon / preview
+[AuditGrade Verifier](https://github.com/owlhoot-ai/auditgrade-verifier) is an open, offline verifier and preview certificate format for evidence-backed AI completion claims. It shows how pinned trust, signed payloads, file hashes, and aggregate evidence integrity can be checked without trusting an agent's self-report.
 
-Owlhoot AI:
-- AI Completion Assurance
-- Evidence is authoritative. Prose is not.
+## Working principles
+
+- Completion claims should be testable.
+- Trust roots should live outside the agent being evaluated.
+- Public demos should state exactly what they prove—and what they do not.
+- Sensitive enforcement logic, keys, and customer material stay private.
+
+## Connect
+
+- [Owlhoot AI on GitHub](https://github.com/owlhoot-ai)
+- [LinkedIn](https://www.linkedin.com/in/kirk-nielson/)
