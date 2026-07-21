@@ -12,7 +12,7 @@ The durable fix was not to check harder. It was to design correctness into the s
 
 ## Start here
 
-[AuditGrade Verifier](https://github.com/owlhoot-ai/auditgrade-verifier) is an open, offline verifier and preview certificate format for evidence-backed AI completion claims. It shows how pinned trust, signed payloads, file hashes, and aggregate evidence integrity can be checked without trusting an agent's self-report.
+[Provably Done Verifier](https://github.com/owlhoot-ai/provably-done-verifier) is an open, offline verifier and preview certificate format for evidence-backed AI completion claims. It shows how pinned trust, signed payloads, file hashes, and aggregate evidence integrity can be checked without trusting an agent's self-report.
 
 ## Working principles
 
